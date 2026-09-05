@@ -321,8 +321,14 @@
     "/knowledgebase/general": {
       "dataFile": "Knowledgebase/General/.data.md",
       "children": [
+        "/knowledgebase/general/controllers",
         "/knowledgebase/general/ratings",
         "/knowledgebase/general/roles"
+      ]
+    },
+    "/knowledgebase/general/controllers": {
+      "children": [
+        "/knowledgebase/general/controllers/wake-turbulence-separation"
       ]
     },
     "/knowledgebase/general/ratings": {
@@ -841,6 +847,9 @@
     },
     "/demo": {
       "file": "Demo.md"
+    },
+    "/knowledgebase/general/controllers/wake-turbulence-separation": {
+      "file": "Knowledgebase/General/Controllers/Wake-Turbulence-Separation.md"
     },
     "/knowledgebase/general/ratings/[c1]-trainee-controller": {
       "file": "Knowledgebase/General/Ratings/[C1]-Trainee-Controller.md"
