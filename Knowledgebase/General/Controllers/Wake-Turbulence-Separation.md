@@ -1,19 +1,20 @@
 ---
 title: Wake Turbulence Separation
-description: Make sure you separate aircrafts from each other to avoid turbulence.
+description: Make sure you separate aircraft to avoid turbulence and unexpected behaviours.
 ---
-# WTC Categories
-Before talking about the separation that aircraft should have, we need to understand what the differences between aircraft are.
-There are four different categories, including Super (J) which is currently not ingame yet, since the only aircraft that have those categories are the A380 and the AN225.
+# Wake Turbulence Categories (WTC)
+Before talking about the separation that aircraft should have, we must understand what qualifies an aircraft to be in its respective WTC.
+There are four different categories. However, only three of these categories are available in game due to the lack of an A380 or AN-225.
 
-| WTC | MTOM | Examples | 
+| WTC | MTOW | Examples | 
 | ----- | --------- | --------- |
-| Light (L) | MTOM ≤ 7t | C152, P28A |
-| Medium (M) | 7t < MTOM < 136t | A320, B737 |
-| Heavy (H) | MTOM ≥ 136t | A330, B757|
+| Light (L) | MTOW ≤ 7t | C152, P28A |
+| Medium (M) | 7t < MTOW < 136t | A320, B737 |
+| Heavy (H) | MTOW ≥ 136t | A330, B757|
 | Super (J) | --------- | A388, A225 |
 
-[You still don't understand what that means? - Watch this video and find out!](https://www.youtube.com/watch?v=XBZULOoe94U)
+!!! info Confused?
+    Still don't understand what that means? - Watch [this video](https://www.youtube.com/watch?v=XBZULOoe94U) and find out!
 
 # Separation
 Wake turbulence separation can either be distance-based or time-based. As a standard procedure, distance-based wake turbulence separation is used.
