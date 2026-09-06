@@ -4,11 +4,11 @@ description: How to fly a VFR traffic circuit and communicate correctly with ATC
 ---
 
 # What are Traffic Circuits?
-The traffic circuit ensures that approach and departure procedures at uncontrolled airfields run smoothly and safely. 
+A traffic circuit ensures that approach and departure procedures at uncontrolled airfields run smoothly and safely. 
 
-Traffic circuits are only defined and published for uncontrolled aerodromes. At controlled aerodromes, air traffic controllers direct the aerodrome traffic. The traffic circuit is usually flown at **1000 ft AGL** and at a distance of **1NM** to the runway.
+Traffic circuits are only defined and published for uncontrolled aerodromes. At controlled aerodromes, air traffic controllers direct the aerodrome traffic. The traffic circuit is usually flown at **1000 ft** ?[AGL](Above Ground Level)** and at a distance of **1NM** to the runway.
 
-If someone talks about *"traffic circuit"*, a *"crosswind"*, *"downwind"* or *"base"*, this refers to the sections of the **standard traffic circuit (left turns).** If you want to refer to the corresponding sections of the right-hand circuit, you speak of the *"right traffic circuit"*, the *"right crosswind"*, *"right downwind"* or *"right base"*.
+If someone talks about a *"traffic circuit"*, *"crosswind"*, *"downwind"* or *"base"*, this refers to the sections of a **standard traffic circuit (left turns)**. If you want to refer to the corresponding sections of the right-hand circuit, you speak of the *"right traffic circuit"*, the *"right crosswind"*, *"right downwind"* or *"right base"*.
 
 Unless otherwise specified by the responsible aviation authority, aerodrome circuits are flown at a **distance of approx. 1 NM** from the runway and to the left (counterclockwise) so that the pilot sitting on the left can keep an eye on the runway throughout the entire maneuver.
 
