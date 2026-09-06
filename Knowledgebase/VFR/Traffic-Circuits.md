@@ -12,7 +12,7 @@ If someone talks about *"traffic circuit"*, a *"crosswind"*, *"downwind"* or *"b
 
 Unless otherwise specified by the responsible aviation authority, aerodrome circuits are flown at a **distance of approx. 1 NM** from the runway and to the left (counterclockwise) so that the pilot sitting on the left can keep an eye on the runway throughout the entire maneuver.
 
-![VFR Traffic Circuit](https://media.devjakob.com/pfwiki/traffic_circuit.png)
+![VFR Traffic Circuit](/images/traffic-circuit.png)
 
 # Phraseology
 As a pilot, you are **not allowed** to use the short form of your VFR callsign, **unless** the controllers uses it.
@@ -35,4 +35,4 @@ Should a pilot want to leave the CTR, they can do so via published routes but al
 | D-GL, via threshold runway 04, cross runway 04, leave the CTR to the North. | --------- |
 
 In this situation, it would allow the controller to simultaniously let another aircraft depart, while D-EIGL is crossing the runway via the threshold. This increases efficiency and is especially useful in a busy CTR with many departures and arrivals.
-![VFR Crossing via treshold](https://media.devjakob.com/pfwiki/crossing_via_threshold.png)
+![VFR Crossing via treshold](/images/crossing-via-threshold.png)
