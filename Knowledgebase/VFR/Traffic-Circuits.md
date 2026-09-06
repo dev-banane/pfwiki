@@ -1,6 +1,7 @@
 ---
 title: Flying the Traffic Circuit
 description: How to fly a VFR traffic circuit and communicate correctly with ATC.
+author: “bananensammler_”
 ---
 
 # What are Traffic Circuits?

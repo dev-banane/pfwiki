@@ -1,6 +1,7 @@
 ---
 title: Wake Turbulence Separation
 description: Make sure you separate aircraft to avoid turbulence and unexpected behaviours.
+author: “bananensammler_”
 ---
 # Wake Turbulence Categories (WTC)
 Before talking about the separation that aircraft should have, we must understand what qualifies an aircraft to be in its respective WTC.
